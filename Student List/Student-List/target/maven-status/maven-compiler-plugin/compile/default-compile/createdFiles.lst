@@ -1,0 +1,6 @@
+com\example\Student\List\repository\StudentRepository.class
+com\example\Student\List\config\EmbeddingModelConfig.class
+com\example\Student\List\service\StudentService.class
+com\example\Student\List\controller\StudentController.class
+com\example\Student\List\StudentListApplication.class
+com\example\Student\List\model\Student.class
